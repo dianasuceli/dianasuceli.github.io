@@ -8,9 +8,12 @@ My GitHub page is http://github.com/dianasuceli.
 
 ### CPSC 120
 
-* Lab 7
+* Lab 2
 
-    Lab 7, part 2 was a favorite because I was always curious about how the
-    game Blackjack works. I was able to write functions for the first time
-    that calculate the correct value of a Blackjack hand no matter how many
-    Aces were dealt.
+    Lab 2, part 1 was a favorite because I learned how to convert fahrenheit to celsius. It was interesting because I learned that there are assignment operators which was utilized in making the formula. 
+
+* Lab 3 
+    Lab 3, part 1 was a favorite because I learned how to print out prompts with inputs and outputs. I was able to print out a sentence that followed a certain pattern relating to ingredients of a sandwich. 
+
+* Lab 7
+    Lab 7, part 1 was a favorite because we calculated the date difference of the start and end of a Julian day. Then we subtraced the Julian day numbers to compute the date difference. It was more challenging compared to previous labs where we calculated the date difference. I liked analyzing the formulas and comparing them to previous ones!
